@@ -44,4 +44,4 @@ Movix is a dynamic web application designed to enhance the movie-watching experi
 
 ## Contact
 
-For any inquiries or feedback, please contact at [movix@example.com](mailto:faizanusmani086@gmail.com).
+For any inquiries or feedback, please contact at my [Gmail](mailto:faizanusmani086@gmail.com).
