@@ -2,6 +2,15 @@
 
 Movix is a dynamic web application designed to enhance the movie-watching experience by providing users with comprehensive information about movies, including casting details, trailers, ratings, and real-time show timings. This centralized platform enables users to explore movies categorized as Coming Soon, In Theatres, or available on DVD/Blu-ray/Digital.
 
+### Snapshots
+
+<img src = "https://res.cloudinary.com/dooi3sikb/image/upload/v1711796953/Movix/zc2btfj8m163pw61yskg.png"/>
+<img src = "https://res.cloudinary.com/dooi3sikb/image/upload/v1711796953/Movix/yzjgvtbxmphq2jdl38eb.png" width="1200"/>
+<img src = "https://res.cloudinary.com/dooi3sikb/image/upload/v1711796955/Movix/olanqiubbototk4wwmua.png"/>
+<img src = "https://res.cloudinary.com/dooi3sikb/image/upload/v1711796955/Movix/r8zezdmapd5sgpgjkhsh.png"/>
+<img src = "https://res.cloudinary.com/dooi3sikb/image/upload/v1711796954/Movix/vdn1ctlqoyudt1r03iry.png"/>
+<img src = "https://res.cloudinary.com/dooi3sikb/image/upload/v1711796954/Movix/x4sdnvi0cla5zxjke9wt.png"/>
+
 ## Features
 
 ### 1. Comprehensive Movie Information
